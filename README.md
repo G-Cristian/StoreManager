@@ -87,7 +87,7 @@ No external database, server, or additional tools required. The SQLite database 
 ### Desktop (current)
  
 - [x] Phase 0 — Environment setup
-- [ ] Phase 1 — Solution & project structure
+- [x] Phase 1 — Solution & project structure
 - [ ] Phase 2 — Core library (models, repositories, services)
 - [ ] Phase 3 — Canvas & drawing tools
 - [ ] Phase 4 — Regions, containers & hierarchical navigation
